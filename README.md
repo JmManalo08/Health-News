@@ -26,11 +26,6 @@ News apps are useful for health & medical writers. Until recently, you may have 
 ![](image/9.png)
 
 
-
-
-
-
-
 # Demo Video
 click the link to watch: https://youtu.be/N1hZd800_Po
 # Developers:
