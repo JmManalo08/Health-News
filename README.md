@@ -2,7 +2,7 @@
 sample description
 
 # Features
-<h1> 1. Most Viewed 1</h1>
+**1. Most Viewed 1**
 ![](image/1.png)
 2. Most Download
 ![](image/2.png)
