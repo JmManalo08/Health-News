@@ -1,5 +1,5 @@
 # Health-News
-sample description
+Health News covers news about exercise, novel therapies, and emerging research in health and wellness. 
 
 # Features
 ## 1. Most Viewed
