@@ -1,6 +1,5 @@
 # Health-News
-Health News covers news about exercise, novel therapies, and emerging research in health and wellness. posted of those admins who expert in medicine etc.
-
+News apps are useful for health & medical writers. Until recently, you may have used traditional methods for curating quality health news articles from reliable medical industry websites, medical magazines, journals and medical institutions. The process can be time consuming, relying on gauging content based on headlines, having access to journals or subscriptions to news sites
 # Features
 ## 1. Most Viewed
 ![](image/1.png)
