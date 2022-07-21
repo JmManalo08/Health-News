@@ -2,7 +2,7 @@
 sample description
 
 
-#Demo Video
+# Demo Video
 https://youtu.be/N1hZd800_Po
 
 # Researcher/Developer:
@@ -18,7 +18,7 @@ Nagtahan, Sampaloc, Manila, Philippines
 College of Arts and Sciences
 ITE Department
 # Course:
-Bachelor of Science in Information Technology
+* Bachelor of Science in Information Technology
 # Date:
-July 22, 2022
+* July 22, 2022
 
