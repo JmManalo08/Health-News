@@ -1,4 +1,5 @@
 # Health-News
+![](image/0.png)
 News apps are useful for health & medical writers. Until recently, you may have used traditional methods for curating quality health news articles from reliable medical industry websites, medical magazines, journals and medical institutions. The process can be time consuming, relying on gauging content based on headlines, having access to journals or subscriptions to news sites
 # Features
 ## 1. Most Viewed
