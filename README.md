@@ -11,7 +11,7 @@ click the link to watch: https://youtu.be/N1hZd800_Po
 * John Michael M. Manalo
 * Mary Joy Sagolili
 # Adviser:
-Jefferson A. Costales
+* Jefferson A. Costales
 # School Name:
 Eulogio "Amang" Rodriguez Insitute of Science and Technology
 Nagtahan, Sampaloc, Manila, Philippines
