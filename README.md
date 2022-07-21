@@ -33,20 +33,24 @@ News apps are useful for health & medical writers. Until recently, you may have 
 
 # Demo Video
 click the link to watch: https://youtu.be/N1hZd800_Po
-# Researcher/Developer:
+# Developers:
 * Aira Mae Cajayon
 * Sarah Me Esplana
 * John Michael M. Manalo
 * Mary Joy Sagolili
-# Adviser:
-* Jefferson A. Costales
-# School Name:
-Eulogio "Amang" Rodriguez Insitute of Science and Technology
-Nagtahan, Sampaloc, Manila, Philippines
-College of Arts and Sciences
-ITE Department
 # Course:
 * Bachelor of Science in Information Technology
+# Section
+* BSIT3B
+# Subject
+* Mobile Application Development (iOS & Android)
+# Subject Professor:
+* Jefferson A. Costales
+# School Name:
+Eulogio "Amang" Rodriguez Insitute of Science and Technology <br />
+Nagtahan, Sampaloc, Manila, Philippines <br />
+College of Arts and Sciences <br />
+ITE Department
 # Date:
 * July 22, 2022
 
