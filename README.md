@@ -2,10 +2,24 @@
 sample description
 
 # Features
-<h3> 1. Most Viewed </h3>
+1. Most Viewed
 ![](image/1.png)
 2. Most Download
 ![](image/2.png)
+3.Article Category
+![](image/3.png)
+4.View Article
+![](image/4.png)
+5.Comment Section
+![](image/5.png)
+6.Read Article
+![](image/6.png)
+7.Print Article
+![](image/7.png)
+8.Favorite Article
+![](image/8.png)
+9.Profile
+![](image/9.png)
 
 
 
