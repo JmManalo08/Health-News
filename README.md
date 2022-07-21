@@ -3,7 +3,7 @@ sample description
 
 
 # Demo Video
-https://youtu.be/N1hZd800_Po
+click the link to watch: https://youtu.be/N1hZd800_Po
 
 # Researcher/Developer:
 * Aira Mae Cajayon
