@@ -1,6 +1,10 @@
 # Health-News
 ![](image/0.png)
 News apps are useful for health & medical writers. Until recently, you may have used traditional methods for curating quality health news articles from reliable medical industry websites, medical magazines, journals and medical institutions. The process can be time consuming, relying on gauging content based on headlines, having access to journals or subscriptions to news sites
+# Requirements
+* Android Studio 4.0 (installed on a Mac, Linux, or Windows machine)
+* Android device in developer mode with USB debugging enabled
+* USB cable (to connect Android device to your computer)
 # Features
 ## 1. Most Viewed
 ![](image/1.png)
