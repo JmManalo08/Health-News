@@ -1,5 +1,5 @@
 # Health-News
-Health News covers news about exercise, novel therapies, and emerging research in health and wellness. 
+Health News covers news about exercise, novel therapies, and emerging research in health and wellness.from fact article posted of those admins who expert in medicine etc.
 
 # Features
 ## 1. Most Viewed
