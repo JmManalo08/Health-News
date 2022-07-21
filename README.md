@@ -6,10 +6,10 @@ sample description
 https://youtu.be/N1hZd800_Po
 
 # Researcher/Developer:
-Aira Mae Cajayon
-Sarah Me Esplana
-John Michael M. Manalo
-Mary Joy Sagolili
+* Aira Mae Cajayon
+* Sarah Me Esplana
+* John Michael M. Manalo
+* Mary Joy Sagolili
 # Adviser:
 Jefferson A. Costales
 # School Name:
