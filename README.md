@@ -5,7 +5,7 @@ sample description
 #Demo Video
 https://youtu.be/N1hZd800_Po
 
-#Researcher/Developer:
+# Researcher/Developer:
 Aira Mae Cajayon
 Sarah Me Esplana
 John Michael M. Manalo
